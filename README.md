@@ -6,4 +6,4 @@ The changes I made were based on the suggestions on pagespeed insite.
 - Used gimp to compress the images on the main page.
 - On the pizza page I cashed the document.body.scrolltop value oustside the for loop value instead of calling in in the for loop.
 - Also since all the pizza are the same size in the background I calculated the size outside the for loop that sets the pizzas on the page.
-- Also reduced the number of mover pizzas that it created as even at full screen there was about 32 pizzas showing so creating 200 was a bit overkill.
+- Also reduced the number of mover pizzas to 50 because even at full screen there was about 32 pizzas showing so creating 200 was a bit overkill.
